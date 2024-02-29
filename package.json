@@ -1,16 +1,15 @@
 {
   "name": "@atom/boot-log",
   "version": "0.0.1",
-  "description": "Automatically convert an image or svg into a react component",
+  "description": "boot log",
   "keywords": [
-    "image",
-    "react",
-    "component"
+    "log",
+    "boot"
   ],
-  "homepage": "https://github.com/AtoMeight/boot-log",
+  "homepage": "https://github.com/zhiyingzzhou/boot-log",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AtoMeight/boot-log"
+    "url": "git+https://github.com/zhiyingzzhou/boot-log"
   },
   "license": "MIT",
   "author": "zhiyingzhou",
