@@ -11,6 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/zhiyingzzhou/boot-log.git"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "license": "MIT",
   "author": "zhiyingzhou",
   "main": "dist/boot-log.umd.js",
