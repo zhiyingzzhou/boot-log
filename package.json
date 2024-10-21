@@ -9,7 +9,7 @@
   "homepage": "https://github.com/zhiyingzzhou/boot-log",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhiyingzzhou/boot-log"
+    "url": "https://github.com/zhiyingzzhou/boot-log"
   },
   "license": "MIT",
   "author": "zhiyingzhou",
